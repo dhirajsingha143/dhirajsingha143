@@ -1,10 +1,10 @@
 # Hi there, I'm Dhiraj Singha👋
 ### You can call me Dhiraj 😄
 
-- 👀 I’m interested in Front End development
-- 🌱 I’m currently learning in Microverse full-time software development program.
-- 💞️ I’m looking to collaborate on Front End projects.
-- 📫 How to reach me dhirajsingha89@gmail.com
+- 👀 I’m interested in Front End development and Data Analysis
+- 🌱 I’m currently a PhD Scholar in Biotechnology.
+- 💞️ I’m looking to collaborate on Bioinformatics projects.
+- 📫 How to reach me dhiraj.singha@s.amity.edu
 - ⚡ Fun fact: I play Guitar 
 
 <!---
