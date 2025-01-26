@@ -45,6 +45,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=975BF7&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you!%F0%9F%98%84)](https://git.io/typing-svg)
+![Typing SVG](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajsingha143&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![Profile views](https://gpvc.arturio.dev/dhirajsingha143) 
+
+![Profile views](https://komarev.com/ghpvc/?username=dhirajsingha143&color=green)
